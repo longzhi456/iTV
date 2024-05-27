@@ -1,4 +1,4 @@
-⚽️体育,#genre#
+⚽️体育12,#genre#
 体育直播01,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive01
 体育直播02,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive02
 体育直播03,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive03
